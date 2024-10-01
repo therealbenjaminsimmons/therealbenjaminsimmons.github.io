@@ -16,7 +16,7 @@ My wife and I are going to the Post Malone concert at Coastal Credit Union Music
 ```mermaid
 flowchart TD
     A[Post Malone Concert] -->|Withdrawl Money from Bank| B(Buy tickets from Ticketmaster)
-    B --> C{Things to purchase at the concert}
+    B --> C{Items to purchase while at the concert}
     C -->|Item One| D[Parking Spot]
     C -->|Item Two| E[Souvenior]
     C -->|Item Three| F[Beer and Food]
